@@ -1,0 +1,7 @@
+PLEASE READ:
+
+>Buttons are there for your convenience, but you DO NOT have to use them if you don't wish. The entire game can be navigated using only text inputs.
+>This game relies on the compass for general movement, i.e. north south east west.
+>'look' is your best friend in this game. Spam it. 'check' is important too, i.e. 'check key' or 'check person'.
+>Don't forget to take any items that you want to carry. The appropriate commands are 'take' or 'grab'.
+>MOST IMPORTANTLY: IF YOU NEED TO SEE THESE INSTRUCTIONS AGAIN, TYPE 'I' OR 'INSTRUCTIONS'.

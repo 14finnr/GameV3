@@ -1,0 +1,3 @@
+"Before you are three doors, and you know you must take one of them. The left door leads to a bottomless pit, the middle door to a lion that hasn't eaten in a month, and the right door to a raging inferno."
+
+"Which door should you take?": 

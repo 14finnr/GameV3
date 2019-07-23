@@ -1,0 +1,3 @@
+"A boy has two parents, and as many sisters as brothers. But each sister has only half as many sisters as brothers."
+
+"How many people are in the family?": 

@@ -1,0 +1,4 @@
+"I see you have chosen to play my game. Good. Use all of your focus and answer quickly, stranger. I will only give you so much time."
+There is a pause, and then the voice begins again. "Four solemn men sat down to play, they played all day through the sun's last rays. They played for cash and not for fun, with a separate score for every one. When it came time to square accounts, they all made quite fair amounts. Not one lost and all gained."
+
+"Now that you've heard, can you explain?": 

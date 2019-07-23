@@ -1,0 +1,2 @@
+The man looks at you quizzically. "I guess you must be new here. Is your shift over? Remember that if you leave I can't let you back down, so don't lie." You pause and think about it for a moment.
+Will you leave?(yes/no): 

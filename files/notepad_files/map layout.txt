@@ -1,0 +1,17 @@
+
+
+
+
+		River(9)
+
+
+
+		Left hall(3)		Hallway choice (2)		Right hall(4)
+
+
+
+		Stairs(8)		Start room (1)			Monster room(5)		Alcove(6)
+
+									
+									
+									Door(7)

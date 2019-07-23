@@ -1,0 +1,10 @@
+beginning room=1
+hall choice=2
+left hall=3
+right hall before turn=4
+right hall after turn=6
+monster jewel easter egg=7
+guard post=9
+sewer=5
+outside party=10
+sacrifice=12
